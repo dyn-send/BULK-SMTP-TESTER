@@ -1,0 +1,2 @@
+securesmtp.t-online.de|587|irmlind.alexander@t-online.de|Yokohama$2013
+securesmtp.t-online.de|587|jbdf4@t-online.de|Juergen#1959#
